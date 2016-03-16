@@ -1,4 +1,4 @@
-package bigfinalassessment;
+package common;
 
 public class Skill {
 	String name;

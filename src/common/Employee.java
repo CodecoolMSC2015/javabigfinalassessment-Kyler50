@@ -1,4 +1,4 @@
-package bigfinalassessment;
+package common;
 
 public class Employee extends Person {
 	int salary;
